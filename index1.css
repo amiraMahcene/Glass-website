@@ -59,10 +59,13 @@ main{
     padding-top:10px;
     font-size: 14px;
 }
+.glass .dishboard .links {
+    margin-top:50px;
+}
 .glass .dishboard .links .link{
   width: 80%;
   display: flex; 
-   margin:10px 10px 20px 50px;  
+  margin:10px 10px 20px 50px;  
 }
 
 .glass .dishboard .links .link img{
@@ -84,7 +87,7 @@ main{
     color: white;
     padding: 1rem;
     position: relative;
-    margin-top: 105px;
+      margin-top:55px;;
 }
 .glass .dishboard .pro img{
     position: absolute;
